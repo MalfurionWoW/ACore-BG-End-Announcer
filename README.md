@@ -1,4 +1,4 @@
-# Battlegound End Announcer
+# Battleground End Announcer
 ![](https://i.imgur.com/nSKYU4b.png)
 
 This is a lua script for azerothcore with eluna engine module to announce when a battleground end, showing the team who win, and top kill, top heal and top damage.
